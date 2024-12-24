@@ -18,5 +18,5 @@
 * `npm run dev` - сборка для разработки
 
 ## Дополнительные материалы:
-Документация: https://habr.com/ru/articles/543420/  
+Полезная информация: https://habr.com/ru/articles/543420/  
 Видео: https://youtube.com/shorts/8Q_EDTFaxic?feature=share
