@@ -19,4 +19,4 @@
 
 ## Дополнительные материалы:
 Документация: https://habr.com/ru/articles/543420/  
-Видео - 
+Видео: https://youtube.com/shorts/8Q_EDTFaxic?feature=share
